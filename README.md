@@ -1,3 +1,15 @@
+# TextMe is an app to share thoughts.
+
+# Initial screen
+<img width="1507" alt="Снимок экрана 2022-06-02 в 4 14 55 AM" src="https://user-images.githubusercontent.com/52038455/171534402-b921c983-6821-4807-bac8-553043c2b2d4.png">
+
+# After login screen
+<img width="1508" alt="Снимок экрана 2022-06-02 в 4 15 48 AM" src="https://user-images.githubusercontent.com/52038455/171534632-968829bf-f043-49ea-95a0-eb0c0ba16b3c.png">
+
+# Specific post screen
+<img width="1507" alt="Снимок экрана 2022-06-02 в 4 16 03 AM" src="https://user-images.githubusercontent.com/52038455/171534702-bb287ba0-23aa-4c06-b408-39c07d4c0061.png">
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
